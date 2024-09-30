@@ -70,19 +70,20 @@ td {
     background-color: rgb(177,229,242);
 }
 
-.more-monitor{
-    background-image: url(./img/monitor.jpg);
+footer div {
     height: 200px;
     background-repeat: no-repeat;
+}
+.more-monitor{
+    background-image: url(./img/monitor.jpg);
+    
     margin-bottom: 15px;
 }
 
    
 .more-graph {
     background-image: url(./img/graph.jpg);
-    height: 200px;
-    background-repeat: no-repeat;
-    margin-bottom: 50px;
+    margin-bottom: 50px; 
 }
     
 .bold-gray {
