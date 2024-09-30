@@ -15,3 +15,25 @@ header div img {
     
   
 }
+
+h1 {
+    padding-top: 10px;
+    font-size: 50px;
+}
+
+.description {
+    font-size: 12px;
+}
+
+.tim image{
+    width: 50%;
+}
+
+.gray-text {
+    color: rgb(137,137,137);
+
+}
+
+.gray-text span{
+    color: blue;
+}
