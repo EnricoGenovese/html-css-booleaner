@@ -15,7 +15,6 @@ header div img {
     height: 50px;
     margin-top: 50px;
     
-  
 }
 
 h1 {
@@ -28,7 +27,8 @@ h1 {
 }
 
 .tim image{
-    width: 50%;
+    width: 100%;
+    float: left;
 }
 
 .gray-text {
@@ -55,7 +55,7 @@ ul {
 
 table {
     padding-top: 20px;
-    padding-bottom: 10px;
+    padding-bottom: 20px;
 }
 
 thead {
@@ -68,4 +68,30 @@ td {
 
 .teal-table-row {
     background-color: rgb(177,229,242);
+}
+
+.more-monitor{
+    background-image: url(./img/monitor.jpg);
+    height: 200px;
+    background-repeat: no-repeat;
+    margin-bottom: 15px;
+}
+
+   
+.more-graph {
+    background-image: url(./img/graph.jpg);
+    height: 200px;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+}
+    
+.bold-gray {
+    color: rgb(137,137,137);
+    font-weight: 800;
+    font-size: 16px; 
+}
+.bold-white {
+    color: white;
+    font-weight: 800;
+    font-size: 18px;
 }
