@@ -9,6 +9,7 @@ header {
     background-image: url(./img/pattern.png);
     background-color: rgb(78,160,255);
 }
+
 header div img {
     width: 100px;
     height: 30%;
@@ -37,3 +38,21 @@ h1 {
 .gray-text span{
     color: blue;
 }
+
+.highlight {
+    background-color: rgb(254,254,0);
+}
+
+article {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+ul {
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+/* table {
+    padding-top: 10px;
+    padding-bottom: 10px;
+} */
